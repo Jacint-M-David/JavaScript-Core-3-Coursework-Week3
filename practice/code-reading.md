@@ -71,3 +71,5 @@ What will be the output of this code. Explain your answer in 50 words or less.
 
 A: Nan - at the time of calling f1(x), x isn't defined and the total of undefined and a number is NaN
 y will be with throw a reference error as you cant reassign the value of values eg 9=10 is an invalid assignment.
+
+change made for PR
